@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 29
+slug  : march-of-the-machine
+seal  : 277e14ccab44e756e5b89a54ab6d8c3fbda6f32aad09e42f5543c7ad272d5ad4
+prev  : ec9dbc5deddd5ff5b352921a187bfad80dc6af127bcdcdb3e89954aa165f5b71
+link  : 885abb0b255833b43a7c085138afb4829f999ea750cc29bcc696ac5941a841f3
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
